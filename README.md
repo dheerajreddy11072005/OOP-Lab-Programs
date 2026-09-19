@@ -1,81 +1,138 @@
-# Object-Oriented Programming Lab
+# Object Oriented Programming (OOP) Lab
 
-A collection of C++ programs and practical exercises completed as part of the **Object-Oriented Programming (OOP)** course.
+## Student Details
 
----
-
-## Student Information
-
-| Particular | Details |
+| Details | Information |
 |---|---|
 | **Name** | Kalluru Sai Dheeraj Reddy |
 | **Roll No.** | 463 |
 | **Division** | D |
 | **SRN** | 01FE23BEC228 |
-| **Semester** | VII |
+| **Semester** | 7th Semester |
+| **Branch** | Electronics & Communication Engineering |
 
 ---
 
-## About
+## About the Repository
 
-This repository contains the OOP laboratory programs completed during the semester. The programs are implemented in **C++** and are intended to demonstrate the fundamental concepts of object-oriented programming through simple practical examples.
+This repository contains the programs and lab exercises completed as part of the **Object Oriented Programming (OOP)** course.
 
-Each program includes comments describing the **program title, concept used, and relevant implementation details** for better understanding and documentation.
+The programs are implemented primarily in **C++** and demonstrate fundamental programming concepts such as classes and objects, constructors, encapsulation, inheritance, functions, strings, arrays, and parameter passing.
 
-The repository will be updated regularly as new laboratory exercises are completed.
+The repository will be **periodically updated** with new programs and lab exercises completed during the semester.
 
 ---
 
-## Topics Covered
+## Concepts Covered
 
-The laboratory exercises cover various C++ and OOP concepts, including:
+The programs in this repository cover the following concepts:
 
-- C++ Fundamentals
 - Classes and Objects
-- Data Members and Member Functions
 - Encapsulation
+- Data Members and Member Functions
 - Access Specifiers
+  - `public`
+  - `private`
+  - `protected`
 - Constructors
+- Default Constructors
 - Parameterized Constructors
-- Functions and Function Arguments
-- Passing Objects to Functions
-- Assignment Operations
+- Constructor Overloading
+- Functions
+- Functions with Arguments
+- Passing Objects as Arguments
+- Assignment Operator
 - Inheritance
 - Single Inheritance
 - Multilevel Inheritance
 - Types of Inheritance
-- Constructor Execution in Inheritance
 - Abstract Classes
-- String Manipulation
+- String Handling
 - Arrays
-- Basic Problem Solving
+- Basic Problem Solving using C++
 
 ---
 
-## Repository Contents
+## Programs Included
 
-The repository includes practical programs related to:
+### 1. Basic C++ Programs
 
-### Classes and Objects
-Programs demonstrating class creation, objects, data members, and member functions.
+- `add(c++)` – Addition using C++
+- `add_two_numbers` – Addition of two numbers
+- `Area_of_rectangle` – Area of a rectangle
+- `Biggest_no_of_list` – Finding the biggest number in a list
+- `length_of_str` – Finding the length of a string
+- `comparison(string)` – String comparison
+- `assign` – Assignment operation
+- `student` – Student-related class/program
+- `car` – Basic class implementation
 
-### Encapsulation
-Examples showing data hiding and the use of `private`, `public`, and `protected` access specifiers.
+### 2. Classes and Objects
 
-### Constructors
-Programs illustrating default and parameterized constructors and their use in classes.
+- `class`
+- `class_Object`
+- `class-eg`
+- `testingclass`
+- `class_2_encapsulation`
 
-### Functions
-Programs demonstrating functions, arguments, parameter passing, and passing objects as function arguments.
+These programs demonstrate the creation of classes and objects, member variables, member functions, and basic object-oriented programming concepts.
 
-### Inheritance
-Examples covering single inheritance, multilevel inheritance, different inheritance types, and constructor flow.
+### 3. Encapsulation
 
-### Abstraction
-Programs demonstrating the use of abstract classes and abstraction in C++.
+- `class_2_encapsulation`
+- `assessPrivate`
 
-### Strings and Arrays
-Programs for string operations, palindrome checking, string comparison, array processing, and basic problem-solving.
+These programs demonstrate encapsulation and the use of access specifiers such as `private` and `public`.
+
+### 4. Functions
+
+- `functions(c++)`
+- `Function_with_argument`
+- `passing_objects_as_argument`
+- `swap_2_num_by_passbyvalue`
+
+These programs demonstrate functions, function arguments, passing objects to functions, and parameter passing.
+
+### 5. Constructors
+
+- `constructor`
+- `constructor_employ`
+- `parameterised_constructor`
+
+These programs demonstrate constructors and parameterized constructors in C++.
+
+### 6. Inheritance
+
+- `inheritance`
+- `Singleinheritence`
+- `inheritance_types`
+- `constructor_flow_inheritance`
+
+These programs demonstrate inheritance concepts including single inheritance, different types of inheritance, and constructor execution in inheritance.
+
+### 7. Abstract Classes
+
+- `abstract`
+
+This program demonstrates the concept of abstraction using an abstract class.
+
+### 8. Strings
+
+- `length_of_string_using_C++_style`
+- `length_of_string_using_char_array`
+- `palindrome_string`
+- `comparison(string)`
+
+These programs demonstrate string handling using C++ strings and character arrays.
+
+### 9. Arrays and Basic Problem Solving
+
+- `Biggest_no_of_list`
+- `biggest_number_in_list`
+- `add_two_numbers`
+- `Area_of_rectangle`
+
+These programs demonstrate basic problem-solving using arrays, variables, and arithmetic operations.
 
 ---
 
