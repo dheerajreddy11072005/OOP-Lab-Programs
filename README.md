@@ -133,6 +133,77 @@ These programs demonstrate string handling using C++ strings and character array
 - `Area_of_rectangle`
 
 These programs demonstrate basic problem-solving using arrays, variables, and arithmetic operations.
+---
 
+## 10. Operator Overloading
+
+- `Complex_Number_Addition_Operator_Overloading`
+- `Complex_Number_Addition_Operator_Overloading - Copy`
+- `Complex_Number_Addition_Operator_Overloading_Alternative`
+- `Complex_Number_Subtraction_Operator_Overloading`
+- `String_Concatenation_Binary_Operator_Overloading`
+- `Unary_Operator_Overloading_Increment`
+- `Unary_Operator_Overloading_Decrement`
+
+These programs demonstrate unary and binary operator overloading in C++, including arithmetic operations on complex numbers and string concatenation.
+
+## 11. Exception Handling
+
+- `Exception_Handling_Division_By_Zero`
+- `Exception_Handling_Division_By_Zero_Modified`
+- `Exception_Handling_Int_and_Double_Exceptions`
+- `Exception_Handling_Multiple_Int_Exceptions`
+- `Exception_Handling_Negative_Number`
+
+These programs demonstrate exception handling in C++ using `try`, `throw`, and `catch` blocks to manage runtime errors and exceptional conditions.
+
+## 12. Runtime Polymorphism
+
+- `Runtime_Polymorphism_Base_and_Two_Derived_Classes`
+- `Runtime_Polymorphism_Function_Overriding_Two_Derived_Classes`
+- `Runtime_Polymorphism_One_Base_One_Derived_Class`
+- `Runtime_Polymorphism_One_Base_Three_Derived_Classes`
+- `Runtime_Polymorphism_Three_Derived_Classes_Pointer_Demonstration`
+
+These programs demonstrate runtime polymorphism using inheritance, virtual functions, function overriding, and base-class pointers.
+
+## 13. Multiple Inheritance and Diamond Problem
+
+- `Multiple_Inheritance_Diamond_Problem`
+- `Virtual_Base_Class_Diamond_Problem_Solution`
+
+These programs explain multiple inheritance, the diamond problem, and the use of virtual base classes to resolve ambiguity in inheritance.
+
+## 14. Abstract Classes and Inheritance Applications
+
+- `Abstract_Class_Vehicle_Car_and_Bike`
+
+This program demonstrates abstraction through an abstract base class and derived classes representing different vehicle types.
+
+---
+
+## Additional Concepts Covered
+
+With the newly added programs, the repository also covers:
+
+- Unary and Binary Operator Overloading
+- Complex Number Operations
+- String Concatenation Using Operator Overloading
+- Exception Handling
+- `try`, `throw`, and `catch`
+- Runtime Polymorphism
+- Virtual Functions
+- Function Overriding
+- Base-Class Pointers
+- Multiple Inheritance
+- Diamond Problem
+- Virtual Base Classes
+- Abstraction Using Real-World Examples
+
+---
+
+## Repository Maintenance
+
+New laboratory exercises and additional C++ implementations will be added periodically to maintain an organized record of the OOP coursework.
 ---
 
